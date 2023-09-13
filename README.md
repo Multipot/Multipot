@@ -1,7 +1,7 @@
 <h3 align="left">Привет, меня зовут Светлана.</h3>
 <h2 align="left"> Я - аналитик данных (Data Analist)</h2>
 
- ###  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Svetlana-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Svetlana_18888)
+ ###  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Svetlana-blue?style=flat&logo=Telegram&logoColor=white&labelFontSize=1000px)](https://t.me/Svetlana_18888)
 <a href="https://linkedin.com/in/linkedin.com/in/svetlana-st-a71461121" target="_blank">
 </a>   
 
