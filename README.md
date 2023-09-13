@@ -3,6 +3,11 @@
 
 ### Мои контакты:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Svetlana11111111)  
+
+<a href="https://linkedin.com/in/linkedin.com/in/svetlana-st-a71461121" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+
 e-maile: q123419@yandex.ru
 
 ### Инструменты и методики:  
