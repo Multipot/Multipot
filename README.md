@@ -1,4 +1,4 @@
-<h3 align="left">Привет, меня зовут Светлана</h3>
+<h3 align="left">Привет, меня зовут Светлана.</h3>
 <h2 align="left"> Я - аналитик данных (Data Analist)</h2>
 
  ###  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Svetlana-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Svetlana_18888)
