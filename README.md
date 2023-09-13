@@ -2,6 +2,12 @@
 <h2 align="left"> Я - аналитик данных (Data Analist)</h2>
 
 ### Мои контакты:
+
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Svetlana-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Svetlana_18888) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svetlanagml@gmail.com)
+  
+ <div id="badges">
+    
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Svetlana11111111)  
 
 <a href="https://linkedin.com/in/linkedin.com/in/svetlana-st-a71461121" target="_blank">
@@ -10,6 +16,8 @@
 
 e-maile: q123419@yandex.ru
 
+  </div>
+  
 ### Инструменты и методики:  
    
 <div align="left">  
@@ -57,4 +65,4 @@ e-maile: q123419@yandex.ru
 | 3. ![Проверка гипотез по увеличениювыручки по результатам AB-теста.](https://github.com/Multipot/Multipot/blob/main/Project_3/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7_%D0%BF%D0%BE_%D1%83%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8E_%D0%B2%D1%8B%D1%80%D1%83%D1%87%D0%BA%D0%B8_%D0%BF%D0%BE_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D0%BC_AB_%D1%82%D0%B5%D1%81%D1%82%D0%B0.pdf)  | A/B-тестирование,Matplotlib,Pandas,Python,SciPy. | Проведена приоритизация гипотез по фреймворкам  ICE и RICE. Затем анализ результатов A/B-теста, построила графики кумулятивной выручки, среднего чека, конверсии по группам, а затем посчитал статистическую значимость различий конверсий и средних чеков по сырым и очищенным данным. |
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Multipot)
