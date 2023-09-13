@@ -3,17 +3,8 @@
 
  ###  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Svetlana-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Svetlana_18888)
 <a href="https://linkedin.com/in/linkedin.com/in/svetlana-st-a71461121" target="_blank">
+</a>   
 
-</a>  
- 
-
-
-
- 
-
-
-
-  
  <div id="badges">
     
 
