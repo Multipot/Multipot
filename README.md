@@ -1,3 +1,6 @@
+<div align="left">
+<img src="https://github.com/Multipot/my_1_lesson_28.08.23/blob/main/img/me.png" align="left" height="100" width="100" />     
+</div> 
 <h3 align="left">Привет, меня зовут Светлана.</h3>
 <h2 align="left"> Я - аналитик данных (Data Analist)</h2>
 
