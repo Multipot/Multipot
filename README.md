@@ -1,18 +1,19 @@
 <div align="left">
 <img src="https://github.com/Multipot/my_1_lesson_28.08.23/blob/main/img/me.png" align="left" height="100" width="100" />     
 </div> 
+
 <h3 align="left">Привет, меня зовут Светлана.</h3>
 <h2 align="left"> Я - аналитик данных (Data Analist)</h2>
 
  ###  :mailbox: Как связаться со мной: 
  
  [![Telegram Badge](https://img.shields.io/badge/-Telegram_Svetlana-blue?style=flat&logo=Telegram&logoColor=white&labelFontSize=1000px)](https://t.me/Svetlana_18888)
+ 
 <a href="https://linkedin.com/in/linkedin.com/in/svetlana-st-a71461121" target="_blank">
 </a>   
 
- <div id="badges">
-    
 
+ <div id="badges">
 
 <a href="https://linkedin.com/in/linkedin.com/in/svetlana-st-a71461121" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -21,16 +22,17 @@
 e-maile: q123419@yandex.ru
 
   </div>
+
   
 ### Инструменты и методики:  
    
 <div align="left">  
+ 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>      
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>        
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
  
 </div>  
-
 
 ---
 
@@ -38,11 +40,11 @@ e-maile: q123419@yandex.ru
 
 
 <br />
-<br />
+
 
 --- 
 
-Я буду рада помочь  Вам  выявлять тенденции и определить явные и скрытые закономерности, что позволит принять информированные, взвешенные и эффективные решения.  
+Я буду рада помочь  Вам  выявить явные и скрытые закономерности из Ваших данных, это позволит Вам принять информированные, взвешенные и эффективные решения.  
 
 <h5 align="center">— Чем умный отличается от мудрого? — спросили у Раневской. 
 
@@ -50,14 +52,11 @@ e-maile: q123419@yandex.ru
 
 
 
-Любая информация может скрывать в себе неочевидные взаимосвязи и скрытые закономерности, и обнаружение этих инсайтов позволяет:
-- ⚡ Увидеть  новые возможности, а так же выявить потенциальные проблемы и не допустить.  
-- ⚡ Анализ данных сокращает время, необходимое для принятия решений, и уменьшает риски, связанные с ошибочными решениями.
-- ⚡ Повышение конкурентоспособности. Анализ данных может помочь определить конкурентные преимущества компании и помочь ей сохранить свои позиции на рынке.
-- ⚡ Повышение удовлетворенности клиентов. Анализ данных может помочь понять потребности и предпочтения клиентов, что позволяет компании предоставлять более качественное обслуживание и повышать удовлетворенность клиентов.
-
-
-
+Любая информация может скрывать в себе неочевидные взаимосвязи и скрытые закономерности, и обнаружение этих инсайтов позволит Вам:
+- ⚡ Увидеть  новые возможности, а так же выявить потенциальные проблемы и не допустить их.  
+- ⚡ Сократить время, необходимое для принятия решений и уменьшает риски, связанные с ошибочными решениями.
+- ⚡ Повысить Вашу конкурентоспособность, определить Ваши конкурентные преимущества и это позволить Вам занять наиболее выгодные позиции на рынке.
+- ⚡ Понять потребности и предпочтения клиентов, это позволит Вам предоставлять более качественное обслуживание и повышать удовлетворенность клиентов.
 
 ---
 ### Мои проекты:
