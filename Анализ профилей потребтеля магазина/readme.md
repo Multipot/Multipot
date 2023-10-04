@@ -16,4 +16,4 @@ Python: Matplotlib, Seaborn, Pandas, NumPy, SciPy, Plotly, boxplot, RFM-анал
 
 Исходя из этого, была предложена рекомендация по маркетинговой стратегии. 
 
-[Дашборд](https://public.tableau.com/app/profile/svetlana.st/viz/Dashboard2_16814769633920/Dashboard1?publish=yes) из РФ смотреть под VPN'ом
+[Дашборд в Tableau](https://public.tableau.com/app/profile/svetlana.st/viz/Dashboard2_16814769633920/Dashboard1?publish=yes) из РФ смотреть под VPN'ом
