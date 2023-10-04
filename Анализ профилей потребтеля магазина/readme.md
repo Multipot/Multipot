@@ -15,3 +15,5 @@ Python: Matplotlib, Seaborn, Pandas, NumPy, SciPy, Plotly, boxplot, RFM-анал
 В ходе сегментации покупателей выяснили, пользователи из каких групп в среднем покупают больше всего товаров и по каким категориям и приносят наибольшую выручку.
 
 Исходя из этого, была предложена рекомендация по маркетинговой стратегии. 
+
+[Дашборд](https://public.tableau.com/app/profile/svetlana.st/viz/Dashboard2_16814769633920/Dashboard1?publish=yes) из РФ смотреть под VPN'ом
